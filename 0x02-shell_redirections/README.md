@@ -1,2 +1,7 @@
 # Shell Redirections Project
-## what Each Script is doing
+## What Each Script is Doing
+
+|Script Name       | Script Function     |
+|----------------- |---------------------|
+|0-hello_world     |prints “Hello, World”|
+
